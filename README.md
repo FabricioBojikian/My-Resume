@@ -9,9 +9,7 @@ Necessita de **IONIC v4.7.1** ou superior, para verificar sua versão use:
 $ ionic --version
 ```
 
-Duvidas de uso ou mais informações acesse:
-
-[here](https://ionicframework.com/).
+Duvidas de uso ou mais informações clique [aqui](https://ionicframework.com/).
 
 ## Quick Summary commands
 
